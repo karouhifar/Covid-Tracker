@@ -1,7 +1,7 @@
-### This is the sample of Covid tracking system by showing each countries number of cases scenarios.
+## This is the sample of Covid tracking system by showing each countries number of cases scenarios.
 
-## This application is used the REST API service with ReactJS program.
+### This application is used the REST API service with ReactJS program.
 
-## This Application is powered by Google Firebase web hosting PaaS system.
+### This Application is powered by Google Firebase web hosting PaaS system.
 
 ![alt text](https://cdn-media-1.freecodecamp.org/images/kE3b4TOXtlEYpwhRvtSMi87mkWPaTfzbWOC9)
