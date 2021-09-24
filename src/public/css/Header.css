@@ -1,0 +1,8 @@
+.header__header {
+  margin: 20px 0px;
+}
+.header__dropdown {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

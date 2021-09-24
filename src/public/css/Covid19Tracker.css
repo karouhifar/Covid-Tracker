@@ -1,0 +1,9 @@
+.covid19Tracker {
+  margin-top: 20px;
+  height: max-content;
+  margin: 0px 30px;
+}
+
+.covid19Tracker__stats {
+  margin: 20px 0px;
+}
