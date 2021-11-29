@@ -112,6 +112,7 @@ function Header() {
           <h1>Covid-19 Tracker</h1>
           <FormControl
             defaultValue="Hello World"
+            className="tacker"
             style={{ width: "30%" }}
             autoComplete="off"
           >

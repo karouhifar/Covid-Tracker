@@ -6,7 +6,6 @@ import "../public/css/Covid19Tracker.css";
 import Header from "../components/Header";
 import Map from "../components/Map";
 import AllInfoBox from "../components/AllInfoBox";
-import Country from "../components/Country";
 import "leaflet/dist/leaflet.css";
 import CaseContext from "../api/CaseSwitch";
 function Covid19Tracker() {

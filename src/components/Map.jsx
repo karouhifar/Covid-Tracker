@@ -14,6 +14,7 @@ function Map({ center, zoom, casesType = "cases" }) {
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+          noWrap={true}
         />
         {showDataOnMap(countries, casesType)}
       </LeafletMap>
